@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LatihanApplication<latihan>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.latihan.latihan.LatihanApplication",
+            "projectName": "latihan",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
